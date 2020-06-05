@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1591370022,,"wq"
+|2,0,1591370436,,"wq"
 :q
-|2,0,1591369545,,"q"
+|2,0,1591370261,,"q"
 
 # Search String History (newest to oldest):
 
@@ -39,36 +39,132 @@
 |3,1,36,0,1,0,1591369434,"/"
 
 # File marks:
-'0  7  0  ~/Dockerfile
-|4,48,7,0,1591370022,"~/Dockerfile"
-'1  19  0  ~/public-html/form.html
-|4,49,19,0,1591369831,"~/public-html/form.html"
-'2  4  51  ~/run.sh
-|4,50,4,51,1591369579,"~/run.sh"
-'3  1  0  ~/cgi-bin/printenv
-|4,51,1,0,1591369545,"~/cgi-bin/printenv"
-'4  4  45  ~/run.sh
-|4,52,4,45,1591369437,"~/run.sh"
-'5  3  9  ~/run.sh
-|4,53,3,9,1591369395,"~/run.sh"
-'6  3  9  ~/run.sh
-|4,54,3,9,1591369395,"~/run.sh"
-'7  3  9  ~/run.sh
-|4,55,3,9,1591369395,"~/run.sh"
-'8  3  9  ~/run.sh
-|4,56,3,9,1591369395,"~/run.sh"
-'9  1  14  ~/cgi-bin/printenv
-|4,57,1,14,1591369348,"~/cgi-bin/printenv"
+'0  37  8  ~/.gitignore
+|4,48,37,8,1591370436,"~/.gitignore"
+'1  36  7  ~/.gitignore
+|4,49,36,7,1591370406,"~/.gitignore"
+'2  36  7  ~/.gitignore
+|4,50,36,7,1591370406,"~/.gitignore"
+'3  1  0  ~/.gitignore
+|4,51,1,0,1591370261,"~/.gitignore"
+'4  1  0  ~/.gitignore
+|4,52,1,0,1591370261,"~/.gitignore"
+'5  1  0  ~/.gitignore
+|4,53,1,0,1591370261,"~/.gitignore"
+'6  1  0  ~/.gitignore
+|4,54,1,0,1591370261,"~/.gitignore"
+'7  7  0  ~/Dockerfile
+|4,55,7,0,1591370022,"~/Dockerfile"
+'8  19  0  ~/public-html/form.html
+|4,56,19,0,1591369831,"~/public-html/form.html"
+'9  4  51  ~/run.sh
+|4,57,4,51,1591369579,"~/run.sh"
 
 # Jumplist (newest first):
+-'  37  8  ~/.gitignore
+|4,39,37,8,1591370436,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1591370419,"~/.gitignore"
+-'  36  7  ~/.gitignore
+|4,39,36,7,1591370406,"~/.gitignore"
+-'  36  7  ~/.gitignore
+|4,39,36,7,1591370406,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1591370346,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1591370261,"~/.gitignore"
 -'  7  0  ~/Dockerfile
 |4,39,7,0,1591370022,"~/Dockerfile"
+-'  7  0  ~/Dockerfile
+|4,39,7,0,1591370022,"~/Dockerfile"
+-'  7  0  ~/Dockerfile
+|4,39,7,0,1591370022,"~/Dockerfile"
+-'  7  0  ~/Dockerfile
+|4,39,7,0,1591370022,"~/Dockerfile"
+-'  7  0  ~/Dockerfile
+|4,39,7,0,1591370022,"~/Dockerfile"
+-'  7  0  ~/Dockerfile
+|4,39,7,0,1591370022,"~/Dockerfile"
+-'  7  0  ~/Dockerfile
+|4,39,7,0,1591370022,"~/Dockerfile"
+-'  7  0  ~/Dockerfile
+|4,39,7,0,1591370022,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1591369911,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1591369911,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1591369911,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1591369911,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1591369911,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1591369911,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1591369911,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1591369911,"~/Dockerfile"
 -'  19  0  ~/public-html/form.html
 |4,39,19,0,1591369831,"~/public-html/form.html"
 -'  19  0  ~/public-html/form.html
 |4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  19  0  ~/public-html/form.html
+|4,39,19,0,1591369831,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
+-'  1  0  ~/public-html/form.html
+|4,39,1,0,1591369820,"~/public-html/form.html"
 -'  1  0  ~/public-html/form.html
 |4,39,1,0,1591369820,"~/public-html/form.html"
 -'  1  0  ~/public-html/form.html
@@ -81,6 +177,62 @@
 |4,39,4,51,1591369579,"~/run.sh"
 -'  4  51  ~/run.sh
 |4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
+-'  4  51  ~/run.sh
+|4,39,4,51,1591369579,"~/run.sh"
 -'  1  0  ~/run.sh
 |4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
@@ -89,180 +241,36 @@
 |4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
 |4,39,1,0,1591369562,"~/run.sh"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  1  0  ~/cgi-bin/printenv
-|4,39,1,0,1591369545,"~/cgi-bin/printenv"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
--'  4  45  ~/run.sh
-|4,39,4,45,1591369437,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369419,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
--'  3  9  ~/run.sh
-|4,39,3,9,1591369395,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 -'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
--'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
--'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
--'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
--'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
--'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
--'  1  0  ~/run.sh
-|4,39,1,0,1591369375,"~/run.sh"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  1  14  ~/cgi-bin/printenv
-|4,39,1,14,1591369348,"~/cgi-bin/printenv"
--'  4  81  ~/run.sh
-|4,39,4,81,1591369304,"~/run.sh"
--'  3  81  ~/run.sh
-|4,39,3,81,1591369304,"~/run.sh"
+|4,39,1,0,1591369562,"~/run.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1591370435	0
+	"	37	8
+	^	37	9
+	.	37	8
+	+	36	8
+	+	37	8
 
 > ~/Dockerfile
 	*	1591370019	0
